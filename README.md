@@ -2,7 +2,7 @@
 <h3 align="center">BackEnd Stack .NET Developer</h3>
 
 <p align="left">
-I’m junior Full-Stack Developer With Experience In .NET and Angular To Architect, Develop, And Deploy Robust Web Applications . Proficient In Both Front-End And Back-End Technologies, Adept At Creating Seamless User Experiences While Ensuring Optimal Functionality And Performance
+Experienced in building scalable web applications using C#, .NET Core, Angular, and SQL Server, with a proven ability to design and implement efficient, maintainable, and high-performance systems. Possesses a strong understanding of microservices architecture, Clean Architecture, CQRS, and OOP principles, with hands-on experience applying best practices in real-world projects. Focused on delivering robust, secure, and scalable software solutions that enhance business performance, improve system reliability, and provide an excellent user experience, while continuously learning and adapting to new technologies and industry standards.
 </p>
 
 <h3 align="left">Connect with me:</h3>
