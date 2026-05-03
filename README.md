@@ -20,5 +20,5 @@
 
 ### 🛠️ Technical Skills:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,js,ts,html,css,bootstrap,redis,docker,nginx,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,js,ts,html,css,bootstrap,redis,docker,git" />
 </p>
