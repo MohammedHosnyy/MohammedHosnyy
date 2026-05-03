@@ -5,24 +5,21 @@ Software Engineer | .NET Developer | Angular Developer
 </h3>
 
 ---
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/>
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+
 ## 📫 Connect with me
 <p align="center">
 <a href="mailto:mohamed.hosni.thabet@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="50"/>
 </a>
 
 
 <a href="https://www.linkedin.com/in/mohammed-hosny-thabet">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
 </a>
 
-  <a href="https://wa.me/966570083282">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
-  </a>
+<a href="https://wa.me/966570083282">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50"/>
+</a>
 </p>
 
 ---
