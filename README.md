@@ -9,15 +9,17 @@ Software Engineer | .NET Developer | Angular Developer
 ## 📫 Connect with me
 <p align="center">
   <a href="mailto:mohamed.hosni.thabet@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/mohammed-hosny-thabet">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://wa.me/966570083282">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/>
   </a>
 </p>
 
@@ -26,7 +28,7 @@ Software Engineer | .NET Developer | Angular Developer
 ## 📄 CV
 <p align="center">
   <a href="https://drive.google.com/file/d/1BYiYCO5tKBnCZsKaQIBfGDjJKb85lPHq/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-View%20CV-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="50"/>
   </a>
 </p>
 
@@ -36,37 +38,37 @@ Software Engineer | .NET Developer | Angular Developer
 
 ### 💻 Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/csharp/512BD4" width="45"/>
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="45"/>
 </p>
 
 ---
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="45"/>
+  <img src="https://cdn.simpleicons.org/postgresql/316192" width="45"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45"/>
 </p>
 
 ---
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/angular/DD0031" width="45"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="45"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="45"/>
 </p>
 
 ---
 
 ### ⚙️ Tools & DevOps
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="45"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45"/>
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="45"/>
 </p>
