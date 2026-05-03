@@ -2,11 +2,8 @@
 <h3 align="center">Software Engineer | .NET Developer | Angular Developer</h3>
 
 <p align="center">
-  <a href="LINK_CV">
+  <a href="https://drive.google.com/file/d/1BYiYCO5tKBnCZsKaQIBfGDjJKb85lPHq/view?usp=drive_link">
     <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge"/>
-  </a>
-  <a href="LINK_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge"/>
   </a>
 </p>
 
