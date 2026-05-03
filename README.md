@@ -11,29 +11,14 @@
 
 ### 📫 Connect with me:
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/your"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://wa.me/your"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
-  <a href="https://t.me/your"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+  <a href="mailto:mohamed.hosni.thabet@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-hosny-thabet"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://wa.me/966570083282"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
 </p>
 
 ---
 
 ### 🛠️ Technical Skills:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,angular,flutter,js,ts,html,css,bootstrap,redis,docker,nginx,git,cpp" />
-</p>
-
----
-
-### 👨‍💻 About Me:
-- 💼 Software Engineer
-- 🌍 Based in Egypt
-- 🚀 Passionate about Backend & Systems
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,angular,js,ts,html,css,bootstrap,redis,docker,nginx,git" />
 </p>
