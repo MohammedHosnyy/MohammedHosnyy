@@ -6,24 +6,18 @@ Software Engineer | .NET Developer | Angular Developer
 
 ---
 
-## 📄 About Me
-- 💻 Full Stack .NET Developer
-- ⚙️ Focused on Clean Architecture & Scalable Systems
-- 🌐 Experienced in ASP.NET Core & Angular
-- 📚 Always learning and improving my backend skills
-
----
-
 ## 📫 Connect with me
 <p align="center">
   <a href="mailto:mohamed.hosni.thabet@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/mohammed-hosny-thabet">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://wa.me/966570083282">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
@@ -32,7 +26,7 @@ Software Engineer | .NET Developer | Angular Developer
 ## 📄 CV
 <p align="center">
   <a href="https://drive.google.com/file/d/1BYiYCO5tKBnCZsKaQIBfGDjJKb85lPHq/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📄%20View%20My%20CV-Click%20Here-blue?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📄%20View%20CV-Download%20Now-ff9800?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
@@ -40,14 +34,14 @@ Software Engineer | .NET Developer | Angular Developer
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages & Backend
+### 💻 Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb" />
 </p>
 
 ### 🌐 Frontend
@@ -57,19 +51,12 @@ Software Engineer | .NET Developer | Angular Developer
 
 ### ⚙️ Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redis,docker,git,github,swagger,postman" />
+  <img src="https://skillicons.dev/icons?i=redis,docker,git,github,postman" />
 </p>
 
 ---
 
-## 🚀 Goals
-- Build scalable enterprise applications
-- Master system design & architecture
-- Improve performance optimization skills
-- Contribute to open-source projects
-
----
-
+## 📌 API Tools
 <p align="center">
-  ⭐ If you like my profile, feel free to star some repositories!
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48"/>
 </p>
