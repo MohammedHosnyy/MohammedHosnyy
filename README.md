@@ -4,6 +4,15 @@
 Software Engineer | .NET Developer | Angular Developer
 </h3>
 
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1BYiYCO5tKBnCZsKaQIBfGDjJKb85lPHq/view?usp=drive_link">
+<img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge"/>
+</a>
+</p>
+
+
+
 ---
 
 ## 📫 Connect with me
@@ -19,14 +28,6 @@ Software Engineer | .NET Developer | Angular Developer
 
 <a href="https://wa.me/966570083282">
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50"/>
-</a>
-</p>
----
-
-## 📄 CV
-<p align="center">
-<a href="https://drive.google.com/file/d/1BYiYCO5tKBnCZsKaQIBfGDjJKb85lPHq/view?usp=drive_link">
-<img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge"/>
 </a>
 </p>
 
