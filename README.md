@@ -8,13 +8,15 @@ Software Engineer | .NET Developer | Angular Developer
 
 ## 📫 Connect with me
 <p align="center">
-  <a href="mailto:mohamed.hosni.thabet@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<a href="mailto:mohamed.hosni.thabet@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-  <a href="https://www.linkedin.com/in/mohammed-hosny-thabet">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+
+
+<a href="https://www.linkedin.com/in/mohammed-hosny-thabet">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="75"/>
+</a>
 
   <a href="https://wa.me/966570083282">
     <img src="https://skillicons.dev/icons?i=whatsapp" />
@@ -34,33 +36,23 @@ Software Engineer | .NET Developer | Angular Developer
 
 ## 🛠️ Technical Skills
 
-### 💻 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="75"/>
 </p>
 
----
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,postgres,mongodb" />
-</p>
-
----
-
-### 🌐 Frontend
-<p align="center">
-  <svg viewBox="0 0 128 128">
-<linearGradient id="a" x1="14.704" x2="110.985" y1="46.27" y2="92.024" gradientTransform="matrix(1 0 0 -1 0 130)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e40035"></stop><stop offset=".24" stop-color="#f60a48"></stop><stop offset=".352" stop-color="#f20755"></stop><stop offset=".494" stop-color="#dc087d"></stop><stop offset=".745" stop-color="#9717e7"></stop><stop offset="1" stop-color="#6c00f5"></stop></linearGradient><path fill="url(#a)" d="m124.5 21.3-4.4 68.6L78.3 0l46.2 21.3zm-29 88.7L64 128l-31.5-18 6.4-15.5h50.3l6.3 15.5zM64 34.1l16.5 40.2h-33L64 34.1zM7.9 89.9 3.5 21.3 49.7 0 7.9 89.9z"></path><linearGradient id="b" x1="28.733" x2="91.742" y1="117.071" y2="45.195" gradientTransform="matrix(1 0 0 -1 0 130)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff31d9"></stop><stop offset="1" stop-color="#ff5be1" stop-opacity="0"></stop></linearGradient><path fill="url(#b)" d="m124.5 21.3-4.4 68.6L78.3 0l46.2 21.3zm-29 88.7L64 128l-31.5-18 6.4-15.5h50.3l6.3 15.5zM64 34.1l16.5 40.2h-33L64 34.1zM7.9 89.9 3.5 21.3 49.7 0 7.9 89.9z"></path>
-</svg>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="75"/>
-
-  <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts" width="45" />
-</p>
-
----
-
-### ⚙️ Tools & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,swagger" />
-</p>
