@@ -9,17 +9,17 @@ Software Engineer | .NET Developer | Angular Developer
 ## 📫 Connect with me
 <p align="center">
   <a href="mailto:mohamed.hosni.thabet@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42"/>
   </a>
   &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/mohammed-hosny-thabet">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42"/>
   </a>
   &nbsp;&nbsp;
 
   <a href="https://wa.me/966570083282">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/>
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42"/>
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Software Engineer | .NET Developer | Angular Developer
 ## 📄 CV
 <p align="center">
   <a href="https://drive.google.com/file/d/1BYiYCO5tKBnCZsKaQIBfGDjJKb85lPHq/view?usp=drive_link">
-    <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="50"/>
+    <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="55"/>
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Software Engineer | .NET Developer | Angular Developer
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
   <img src="https://cdn.simpleicons.org/postgresql/316192" width="45"/>
   <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45"/>
 </p>
@@ -68,7 +68,7 @@ Software Engineer | .NET Developer | Angular Developer
 <p align="center">
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="45"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="45"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45"/>
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="45"/>
 </p>
