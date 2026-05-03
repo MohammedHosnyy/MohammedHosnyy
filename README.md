@@ -21,8 +21,9 @@ Software Engineer | .NET Developer | Angular Developer
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50"/>
 </a>
 </p>
-<img src="https://www.svgrepo.com/show/10255/resume.svg" width="45"/>
----
+<a href="YOUR_CV_LINK">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/cv-resume-icon.svg" width="50"/>
+</a>---
 
 ## 📄 CV
 <p align="center">
