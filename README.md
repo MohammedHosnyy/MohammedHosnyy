@@ -55,7 +55,7 @@ Software Engineer | .NET Developer | Angular Developer
 </svg>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
-  <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts" width="45" />
 </p>
 
 ---
