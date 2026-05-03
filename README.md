@@ -21,14 +21,14 @@ Software Engineer | .NET Developer | Angular Developer
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50"/>
 </a>
 </p>
-
+<img src="https://www.svgrepo.com/show/10255/resume.svg" width="45"/>
 ---
 
 ## 📄 CV
 <p align="center">
-  <a href="https://drive.google.com/file/d/1BYiYCO5tKBnCZsKaQIBfGDjJKb85lPHq/view?usp=drive_link">
-    <img src="https://skillicons.dev/icons?i=googledrive" />
-  </a>
+<a href="https://drive.google.com/file/d/1BYiYCO5tKBnCZsKaQIBfGDjJKb85lPHq/view?usp=drive_link">
+<img src="https://skillicons.dev/icons?i=googledrive" />
+</a>
 </p>
 
 ---
