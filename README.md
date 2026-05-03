@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hosni</h1>
-<h3 align="center">BackEnd Stack .NET Developer</h3>
+<h3 align="center">Full Stack Developer (.NET & Angular)</h3>
 
 <p align="left">
-Experienced in building scalable web applications using C#, .NET Core, Angular, and SQL Server, with a proven ability to design and implement efficient, maintainable, and high-performance systems. Possesses a strong understanding of microservices architecture, Clean Architecture, CQRS, and OOP principles, with hands-on experience applying best practices in real-world projects. Focused on delivering robust, secure, and scalable software solutions that enhance business performance, improve system reliability, and provide an excellent user experience, while continuously learning and adapting to new technologies and industry standards.
+Full Stack .NET Developer focused on backend engineering, API design, and scalable system architecture using .NET Core and Angular. Interested in Microservices, Messaging Systems, and building clean, high-performance applications.
 </p>
 
 <h3 align="left">Connect with me:</h3>
