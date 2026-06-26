@@ -22,11 +22,11 @@ Software Engineer | .NET Developer | Angular Developer
 </a>
 
 
-<a href="https://www.linkedin.com/in/mohammed-hosny-thabet">
+<a href="www.linkedin.com/in/mohammed-thabet-">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
 </a>
 
-<a href="https://wa.me/966570083282">
+<a href="https://wa.me/966593933625">
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50"/>
 </a>
 </p>
