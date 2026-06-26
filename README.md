@@ -22,7 +22,7 @@ Software Engineer | .NET Developer | Angular Developer
 </a>
 
 
-<a href="www.linkedin.com/in/mohammed-thabet-">
+<a href="https://www.linkedin.com/in/mohammed-thabet-/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
 </a>
 
