@@ -6,7 +6,7 @@ Software Engineer | .NET Developer | Angular Developer
 
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1i48sdMQ8eaOlSahTznfrbtHjNbOmYO-N/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1wkl0urE7bGNp-kprfKXQOWxjuSi1BqWa/view?usp=drive_link">
 <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge"/>
 </a>
 </p>
@@ -17,7 +17,7 @@ Software Engineer | .NET Developer | Angular Developer
 
 ## 📫 Connect with me
 <p align="center">
-<a href="mailto:mohamed.hosni.thabet@gmail.com">
+<a href="mailto:mo.thabet.1997@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50"/>
 </a>
 
